@@ -1,7 +1,7 @@
-telegram-bot 
+telegram-bot
 ============
 
-[![](https://travis-ci.org/yagop/telegram-bot.svg?branch=master)](https://travis-ci.org/yagop/telegram-bot) 
+[![](https://travis-ci.org/yagop/telegram-bot.svg?branch=master)](https://travis-ci.org/yagop/telegram-bot)
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
 Test it on [telegram.me/yago_bot](https://telegram.me/yago_bot)
@@ -15,7 +15,47 @@ Multimedia
 
 ![http://i.imgur.com/0FGUvU0.png](http://i.imgur.com/0FGUvU0.png) ![http://i.imgur.com/zW7WWWt.png](http://i.imgur.com/zW7WWWt.png) ![http://i.imgur.com/zW7WWWt.png](http://i.imgur.com/kPK7paz.png)
 
-Bot Commands
+Additional VIA Bot Commands
+------------
+<table>
+  <thead>
+    <tr>
+      <td>
+        <strong>
+          Name
+        </strong>
+      </td>
+      <td>
+        <strong>
+          Description
+        </strong>
+      </td>
+      <td>
+        <strong>
+          Usage
+        </strong>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        kelder.lua
+      </td>
+      <td>
+        VIA Kelder
+      </td>
+      <td>
+        !kelder +1: Kelder niveau omhoog
+        !kelder -1: Kelder niveau omlaag
+        !kelder reset: Reset het helder niveau
+        !kelder (niveau): Geef het huidige kelder niveau
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Original Bot Commands
 ------------
 <table>
   <thead>
@@ -192,7 +232,7 @@ Bot Commands
         help.lua
       </td>
       <td>
-        Help plugin. Get info from other plugins. 
+        Help plugin. Get info from other plugins.
       </td>
       <td>
         !help: Show list of plugins.
