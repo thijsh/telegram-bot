@@ -40,6 +40,17 @@ Additional VIA Bot Commands
   <tbody>
     <tr>
       <td>
+        dicks.lua
+      </td>
+      <td>
+        Dicks
+      </td>
+      <td>
+        !dicks: Get a random dicks pic<br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         kelder.lua
       </td>
       <td>
