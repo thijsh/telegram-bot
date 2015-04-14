@@ -46,10 +46,10 @@ Additional VIA Bot Commands
         VIA Kelder
       </td>
       <td>
-        !kelder +1: Kelder niveau omhoog
-        !kelder -1: Kelder niveau omlaag
-        !kelder reset: Reset het helder niveau
-        !kelder (niveau): Geef het huidige kelder niveau
+        !kelder +1: Kelder niveau omhoog<br>
+        !kelder -1: Kelder niveau omlaag<br>
+        !kelder reset: Reset het helder niveau<br>
+        !kelder (niveau): Geef het huidige kelder niveau<br>
       </td>
     </tr>
   </tbody>
