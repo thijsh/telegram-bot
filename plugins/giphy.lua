@@ -54,7 +54,7 @@ function run(msg, matches)
 
   local receiver = get_receiver(msg)
   send_document_from_url(receiver, gif_url)
-  return "Preparing to make you laugh"
+  -- return "Preparing to make you laugh"
 end
 
 return {
