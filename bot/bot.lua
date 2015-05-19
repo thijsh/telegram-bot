@@ -31,8 +31,8 @@ end
 function msg_valid(msg)
   -- Dont process outgoing messages
   if msg.out then
-    print("Not valid, msg from us")
-    return false
+     print("Process msg from us")
+     -- return false
   end
   
   -- Before bot was started
